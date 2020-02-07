@@ -17,4 +17,3 @@ agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
 "43","Taxi-Funk-Zentrale Karlsruhe eG","http://www.kvv.de","Europe/Berlin","DE","+49 721 6107 5885"
 "40","Kraichtal Bus GbR","http://www.kvv.de","Europe/Berlin","DE","+49 721 6107 5885"
 "12","Hassis Reisen GmbH","http://www.kvv.de","Europe/Berlin","DE","+49 721 6107 5885"
-"37","Treffpunkt Schienennahverkehr Karlsruhe e.V.","http://www.kvv.de","Europe/Berlin","DE","+49 721 6107 5885"
